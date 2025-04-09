@@ -196,12 +196,7 @@ body {
     margin-top: 1rem;
   }
   
-  body {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-    margin: 0;
-  }
+
   
   .footer {
     margin-top: auto;
